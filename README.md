@@ -1,33 +1,37 @@
-# Fastest Click Wins
+# Mr.Clicky – Fastest Click Wins
 
-## Description
+## Overview
 
-Fastest Click Wins is a simple two-player keyboard game built using **Python and Tkinter**.
-Two players compete by pressing their assigned keys as fast as possible. The first player to reach the target score wins the round.
+**Mr.Clicky: Battle Royale** is a simple two-player keyboard game built with **Python and Tkinter**.
 
-The game also keeps a **match scoreboard** to track how many rounds each player has won.
+Two players compete by pressing their assigned keys as fast as possible.
+The first player to reach the target score wins the round. Winning 3 rounds wins the match.
+
+## ScreenShots
+  will update later :)
 
 ## Controls
 
 * **Player 1:** Press `A`
 * **Player 2:** Press `L`
 
-## How to Play
+## Features
 
-1. Run the program.
-2. Click **Start Game**.
-3. Press **Start Round** to begin.
-4. Players press their keys (`A` or `L`) as fast as possible.
-5. The first player to reach the target score wins the round.
-6. The scoreboard updates automatically.
-7. Use **Reset Scoreboard** to clear all scores.
+* Countdown before each round
+* Random click target for each round
+* Best-of match system
 
 ## Requirements
 
 * Python 3
 * Tkinter
 
-## Run the Game
+## How to Run
+
+1. Make sure Python 3 is installed.
+2. Download the project files.
+3. Run the game:
+
 
 ```bash
 python game.py
